@@ -1,4 +1,4 @@
-# MAIS-HACKS-2023
+# ChurnSheild AI - MAIS-HACKS-2023
 ## Inspirations
 As Management both studying Mathematics, we were eager to try and use **Artificial Intelligence** and **Machine Learning** applied to current business issues. Among many issues that we discussed, customer churn seemed to be a relevant problem seen by numerous companies, where not enough is being done to prevent it. For that reason we created **ChurnShield**, our AI powered solution to try and decrease customer churn rates in companies, and help them maintain their customers!
 
