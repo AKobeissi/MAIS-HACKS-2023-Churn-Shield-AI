@@ -1,6 +1,6 @@
 # ChurnSheild AI - MAIS-HACKS-2023
 ## Inspirations
-As Management both studying Mathematics, we were eager to try and use **Artificial Intelligence** and **Machine Learning** applied to current business issues. Among many issues that we discussed, customer churn seemed to be a relevant problem seen by numerous companies, where not enough is being done to prevent it. For that reason we created **ChurnShield**, our AI powered solution to try and decrease customer churn rates in companies, and help them maintain their customers!
+As Management students studying Mathematics, we were eager to try and use **Artificial Intelligence** and **Machine Learning** applied to current business issues. Among many issues that we discussed, customer churn seemed to be a relevant problem seen by numerous companies, where not enough is being done to prevent it. For that reason we created **ChurnShield**, our AI powered solution to try and decrease customer churn rates in companies, and help them maintain their customers!
 
 ## What it does
 **ChurnShield** is an AI powered solution that performs two main functions. First, it uses advanced machine learning models that accurately predicts at risk customers who are at a **high risk of churn**. Second, it uses**Llama2**, a Large Language Model that artificially generates loyalty programs and promotional messages specific to each customer based on their data. By creating custom loyalty programs and messages, our solution decreases customer churn rates, saves money, and promotes growth for your organization! 
